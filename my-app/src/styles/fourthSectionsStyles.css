@@ -1,0 +1,164 @@
+.fourthSection {
+    position:absolute;
+    width: 1920px;
+    height: 2000px;
+    top: 1970px;
+    left: 0;
+    background-color: #ffffff;
+}
+
+.fourthSection .Uphead {
+    position: absolute;
+    width: 838px;
+    height: 64px;
+    left: 541px;
+    top: 104px;
+    font-family: Bebas Neue;
+    font-size: 40px;
+    line-height: 64px;
+
+    text-align: center;
+    letter-spacing: 5px;
+
+    color: rgba(96, 182, 255, 1);
+}
+
+.fourthSection .Downgead {
+    position: absolute;
+    width: 503px;
+    height: 56px;
+    left: 709px;
+    top: 204px;
+
+    font-family: Gilroy;
+    font-size: 20px;
+    line-height: 28px;
+
+    text-align: center;
+
+    color: #505050;
+}
+
+.fourthSection .stepone {
+    position: absolute;
+    width: 1920px;
+    height: 441px;
+    left: 0;
+    top: 360px;
+}
+
+.fourthSection .stepcontainer {
+    position: absolute;
+    width: 960px;
+    height: 441px;
+    right: 0;
+    top: 0;
+
+    background-color: #F5F5F5;
+
+}
+
+.fourthSection .imageing {
+    display: inline-block;
+}
+
+.fourthSection .imagelable {
+    position: absolute;
+    top: 84px;
+    left: 80px;
+    background-color: #FEE040;
+    display: inline;
+    width: 107px;
+    height: 27px;
+    
+}
+
+.fourthSection .labeltext {
+    position: absolute;
+    top: 80px;
+    left: 197px;
+    display: inline;
+    font-family: Proxima Nova;
+    font-size: 24px;
+    line-height: 34px;
+
+    letter-spacing: -0.5px;
+
+    color: #151515;
+}
+
+.fourthSection .text {
+    position: absolute;
+    top: 132px;
+    left: 70px;
+
+
+    font-family: Proxima Nova;
+    font-size: 18px;
+    line-height: 26px;
+
+    letter-spacing: -0.5px;
+
+    color: #333333;
+
+    opacity: 0.7;
+}
+
+.fourthSection .comment {
+    position: absolute;
+    top: 242px;
+    left: 170px;
+
+    width: 380px;
+    height: 72px;
+
+    font-family: Proxima Nova;
+    font-size: 16px;
+    line-height: 24px;
+
+    letter-spacing: -0.5px;
+
+    color: #505050;
+
+    opacity: 0.7;
+}
+
+.fourthSection .author {
+    position: absolute;
+    bottom: 80px;
+    left: 170px;
+
+    font-family: Proxima Nova;
+    font-size: 16px;
+    line-height: 26px;
+
+    letter-spacing: -0.5px;
+
+    color: #151515;
+
+    opacity: 0.7;
+}
+
+.authorimg img {
+    margin: 8px;
+    width: 64px;
+    height: 64px;
+
+    border-radius: 50%;
+}
+
+.fourthSection .authorimg {
+    position: absolute;
+    top: 238px;
+    left: 49px;
+    width: 80px;
+    height: 80px;
+
+    border-radius: 50%;
+
+    background-color: #FFFFFF;
+}
+
+.imagelable img {
+    margin: 8px;
+}

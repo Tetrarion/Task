@@ -1,6 +1,10 @@
 import React, { useState } from "react";
 import './styles/style.css';
-import FirstComponent from './Sections/firstsection'
+import './styles/firstSectionsStyles.css';
+import './styles/secondSectionsStyles.css';
+import './styles/thirdSectionsStyles.css';
+import './styles/fourthSectionsStyles.css';
+import FirstComponent from './Sections/firstsection';
 import SecondComponent from "./Sections/secondsectionn";
 import ThirdComponent from "./Sections/thirdsections";
 import FourthComponent from "./Sections/fourthsection";

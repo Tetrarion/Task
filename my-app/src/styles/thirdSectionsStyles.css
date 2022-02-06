@@ -1,0 +1,114 @@
+.thirdSection {
+    position: absolute;
+    width: 1920px;
+    height: 753px;
+    top: 1217px;
+    left: 0;
+    
+}
+
+.thirdSection .container {
+    display: inline-block;
+    width: 400px;
+    height: 415px;
+    margin: 0 70px;
+    flex: 0 0 auto;
+}
+
+.thirdSection .blocksContainer {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    position:relative;
+    top: 198px;
+    left: 0;
+    
+}
+
+.thirdSection .container .head {
+    display: block;
+    font-family: Proxima Nova;
+    font-size: 24px;
+    line-height: 28px;
+
+    letter-spacing: -0.5px;
+
+    color: #FFFFFF;
+
+    margin: 10px auto;
+}
+
+.thirdSection .container div {
+    font-family: Proxima Nova;
+    font-size: 16px;
+    line-height: 26px;
+
+    letter-spacing: -0.5px;
+
+    color: #FFFFFF;
+
+    opacity: 0.7;
+
+    margin: 20px 0;
+
+    width: 360px;
+    height: 78px;
+}
+
+.thirdSection .link {
+    font-family: Bebas Neue;
+    font-size: 20px;
+    line-height: 16px;
+
+    letter-spacing: 7px;
+
+    color: #FEE040;
+
+    width: 130px;
+    height: 16px;
+}
+
+.thirdSection .blocksContainer::-webkit-scrollbar {
+    height: 4px;
+}
+ 
+.thirdSection .blocksContainer::-webkit-scrollbar-track {
+    background-color: linear-gradient(180deg, rgba(0, 78, 134, 0.8) 0%, rgba(10, 65, 104, 0.8) 100%);
+}
+ 
+.thirdSection .blocksContainer::-webkit-scrollbar-thumb {
+    background: url('progress bar.png');
+}
+
+.thirdSection .thirdhead {
+    position: relative;
+    width: 149px;
+    height: 16px;
+    left: 951px;
+    top: 100px;
+
+    font-family: Bebas Neue;
+    font-size: 20px;
+    line-height: 16px;
+
+    letter-spacing: 20px;
+    text-transform: uppercase;
+
+    color: #FEE040;
+}
+
+.thirdSection .thirdtextcontainer {
+    position: relative;
+    width: 1085px;
+    height: 42px;
+    left: 483px;
+    top: 136px;
+
+    font-family: Gilroy;
+    font-size: 32px;
+    line-height: 42px;
+
+    letter-spacing: -0.5px;
+
+    color: #FFFFFF;
+}
