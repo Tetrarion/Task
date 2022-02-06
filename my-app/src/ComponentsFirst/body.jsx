@@ -21,6 +21,7 @@ function Body(){
             </div>
             <div className="video">
                 <img src="/images/706181.png" className="videoimg"/>
+                <img src="/images/Polygon.png" className="Polygon"/>
             </div>
             <End/>
         </div>

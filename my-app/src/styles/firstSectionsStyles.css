@@ -35,6 +35,12 @@
     top: 80px;
 }
 
+.firstSection .video .Polygon {
+    position: absolute;
+    right: 95px;
+    bottom: 100px;
+}
+
 .firstSection .email .text {
     position: absolute;
     width: 107px;
