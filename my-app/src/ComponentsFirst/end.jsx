@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 function End(){
 
@@ -8,15 +8,15 @@ function End(){
         <div className="End">
             <div className="first">
                 <img className="firstsvg" src="/images/01 (Stroke).svg"/>
-                <a className="firsttext">Начинаем работать без аванса</a>
+                <p className="firsttext">Начинаем работать без аванса</p>
             </div>
             <div className="second">
                 <img className="secondsvg" src="/images/02 (Stroke).svg"/>
-                <a className="secondtext">Предоставляем отсрочку платежа</a>
+                <p className="secondtext">Предоставляем отсрочку платежа</p>
             </div>
             <div className="third">
                 <img className="secondsvg" src="/images/02 (Stroke).svg"/>
-                <a className="thirdtext">Всегда называем справедливую цену</a>
+                <p className="thirdtext">Всегда называем справедливую цену</p>
             </div>
         </div>
     );

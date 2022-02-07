@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import Head from "../ComponentsFirst/head";
 import End from "../ComponentsFirst/end";
 import Body from "../ComponentsFirst/body";

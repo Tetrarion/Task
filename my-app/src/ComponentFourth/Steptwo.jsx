@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import instruments from "../Props/instruments";
+import instruments from '../Props/instruments';
 
 function StepTwo(){
     const [blocks, SetBlocks] = useState('');
@@ -7,7 +7,7 @@ function StepTwo(){
     useEffect(() => {
         let blocks = instruments();
         SetBlocks(blocks.map(block => (
-            <div className='instrument'>
+            <div className='instrument' key={block.id}>
                 <img src={block.image}/>
                 <div className="name">{block.text}</div>
             </div>

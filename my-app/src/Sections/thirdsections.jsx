@@ -11,7 +11,7 @@ function ThirdComponent(){
         SetBlocks(props.map(prop => (
             <div className="container" key={prop.id}>
                 <img src={prop.image}/>
-                <a className="head">{prop.header}</a>
+                <p className="head">{prop.header}</p>
                 <div>{prop.text}</div>
                 <a className="link">{prop.link}</a><img src={prop.marker}/>
             </div>

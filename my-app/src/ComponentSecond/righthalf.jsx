@@ -1,11 +1,11 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 
 function Righthalf(){
 
     return(
         <div className="Righthalf">
             <div className="list">
-                <a>Вы и Ваши архитекторы получаете:</a>
+                <p>Вы и Ваши архитекторы получаете:</p>
                     <ul>
                         <li>Отчет на который на 100% можно положиться</li>
                         <li>Экономию времени и прогнозируемость сроков</li>

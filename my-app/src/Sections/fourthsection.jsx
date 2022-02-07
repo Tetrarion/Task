@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import Head from "../ComponentFourth/Head";
 import StepOne from "../ComponentFourth/Stepone";
 import StepTwo from "../ComponentFourth/Steptwo";

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import End from "./end";
 
 function Body(){
@@ -9,9 +9,7 @@ function Body(){
         <div className="Body">
             <button><img src="/images/download.svg" className="downloadsvg"/>получить коммерческое</button>
             <div className="text">
-                <p>
                 Отправьте техзадание и получите коммерческое предложение в течении 15 минут на свой email или в мессенджер
-                </p>
             </div>
             <div className="h1">
             Независимое обследование зданий и сооружений

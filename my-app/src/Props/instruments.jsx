@@ -19,11 +19,6 @@ export default function instruments(){
             id: 4,
             image: '/images/item-4.png',
             text: 'Измеритель прочности бетона “Молоток Шмидта”'
-        },
-        {
-            id: 5,
-            image: '/images/item.png',
-            text: 'Локатор арматуры “Profoscope”'
-        },
+        }
     ]
 }

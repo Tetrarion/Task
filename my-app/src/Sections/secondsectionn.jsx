@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import Lefthalf from "../ComponentSecond/lefthalf";
 import Righthalf from "../ComponentSecond/righthalf";
 
